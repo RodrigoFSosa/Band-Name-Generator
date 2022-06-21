@@ -1,3 +1,3 @@
 # Band-Name-Generator
-Programa para generar nombres de bandas musicales.
+Program to generate names of musical bands
 
